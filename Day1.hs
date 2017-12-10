@@ -1,3 +1,7 @@
+-- One of my first Haskell programs
+-- this solution on reddit is much nicer: 
+-- https://www.reddit.com/r/adventofcode/comments/7gsrc2/2017_day_1_solutions/dqlhkcj/
+
 module ArrowFun where
 import Control.Arrow
 
