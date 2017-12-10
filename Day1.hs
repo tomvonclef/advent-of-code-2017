@@ -1,4 +1,6 @@
 -- One of my first Haskell programs
+-- this is the solution for Part 2. set matchAhead to 1 to solve Part 1
+
 -- this solution on reddit is much nicer: 
 -- https://www.reddit.com/r/adventofcode/comments/7gsrc2/2017_day_1_solutions/dqlhkcj/
 
